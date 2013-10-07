@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1119.6851"
+   height="442.91336"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   version="1.0"
+   sodipodi:docname="osmflyer1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="display:inline">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#e1f3fa"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1285315"
+     inkscape:cx="452.39551"
+     inkscape:cy="221.45668"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     width="316mm"
+     height="125mm"
+     units="mm"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:guide-points="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1122"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:object-points="false"
+     inkscape:object-paths="false"
+     inkscape:grid-bbox="false"
+     showgrid="false"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="vertical"
+       position="0"
+       id="guide2160" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="17.716535"
+       id="guide2162" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="35.433071"
+       id="guide2164" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="297.6378"
+       id="guide2166" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="559.84252"
+       id="guide2168" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="822.04724"
+       id="guide2170" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="1101.9685"
+       id="guide2174" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="1119.685"
+       id="guide2176" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="1084.252"
+       id="guide2178" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="0"
+       id="guide2182" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="17.716535"
+       id="guide2184" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="35.433071"
+       id="guide2186" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="407.48031"
+       id="guide2188" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="425.19685"
+       id="guide2190" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="442.91339"
+       id="guide2192" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="378"
+       id="guide2549" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="49.606299"
+       id="guide3686" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="283.46457"
+       id="guide3688" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="393.30709"
+       id="guide3690" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="49.606299"
+       id="guide3692" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="574.01575"
+       id="guide3927" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="545.66929"
+       id="guide3929" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="808.62337"
+       id="guide3931" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="311.81102"
+       id="guide3933" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="flyer"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/fred/svn.openstreetmap.org/misc/pr_material/german_flyer_2013_01/berlin-background-blaugrau.png"
+       xlink:href="berlin-background-blaugrau.png"
+       y="17.716511"
+       x="-261.03812"
+       id="image2738"
+       height="407.21207"
+       width="1417.6224" />
+    <image
+       sodipodi:absref="/home/fred/svn.openstreetmap.org/misc/pr_material/german_flyer_2013_01/globe_part_halo.png"
+       xlink:href="globe_part_halo.png"
+       width="327.56903"
+       height="396.18701"
+       id="image2726"
+       x="794.24286"
+       y="24.243629" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondExtrabold"
+       x="48.7943"
+       y="64.745361"
+       id="text3397"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047"><tspan
+         sodipodi:role="line"
+         id="tspan3399"
+         x="48.7943"
+         y="64.745361"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.94634342 0 0 0 0 0 0.94634342">Machen Sie mit bei OpenStreetMap!</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3401"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
+       transform="translate(13.863799,-4.9786641)"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047"><flowRegion
+         id="flowRegion3403"><rect
+           id="rect3405"
+           width="232.65578"
+           height="85.680443"
+           x="35.687172"
+           y="88.272079"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
+         id="flowPara2574">Die internationale Projekt-Startseite finden Sie auf <flowSpan
+   style="font-weight:bold"
+   id="flowSpan2582">www.openstreetmap.org</flowSpan>. Dort gibt es auch ein Wiki mit vielen Informationen zum Projekt und natürlich die Weltkarte zum Ansehen. Auf <flowSpan
+   style="font-weight:bold"
+   id="flowSpan2584">www.openstreetmap.de</flowSpan> finden Sie Zugang zur deutschsprachigen Community mit Links zu Foren und Mailinglisten. </flowPara><flowPara
+         id="flowPara2580" /><flowPara
+         id="flowPara2576" /><flowPara
+         id="flowPara2572" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2662"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
+       transform="translate(117.29855,91.42581)"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047"><flowRegion
+         id="flowRegion2664"><rect
+           id="rect2666"
+           width="132.80647"
+           height="140.53038"
+           x="35.687172"
+           y="88.272079"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
+         id="flowPara2678">Die dritte Auflage des Buches „OpenStreetMap – die freie Weltkarte n<flowSpan
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed"
+   id="flowSpan4058">utzen und mitge-stalten“ von </flowSpan><flowSpan
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed"
+   id="flowSpan4048">Frederik Ramm</flowSpan><flowSpan
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed"
+   id="flowSpan4060"> und </flowSpan><flowSpan
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed"
+   id="flowSpan4050">Jochen Topf</flowSpan><flowSpan
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed"
+   id="flowSpan4062"> ist bei Lehma</flowSpan>nns Media erschienen und erklärt detailliert alles, was Sie zum Erfassen  von Daten und zum Zeichnen eigener Karten brauchen.</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#40406d;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       id="rect5375"
+       width="496.76749"
+       height="271.0448"
+       x="311.83521"
+       y="49.630428"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10341"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
+       transform="translate(276.02452,238.74942)"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047"><flowRegion
+         id="flowRegion10343"><rect
+           id="rect10345"
+           width="233.48528"
+           height="92.341331"
+           x="35.687172"
+           y="88.272079"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
+         id="flowPara10351">Die Hamburg-Übersichtskarte auf dieser Doppelseite und die umseitige Innenstadtvergrößerung von Köln (beide im deutschen „Mapnik“-Stil) sowie die Welt- kugel auf dem Titel wurden mit Open-Source-Software aus OpenStreetMap-Daten hergestellt. </flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:0.66666667;fill-rule:evenodd;stroke:none"
+       id="rect2510"
+       width="234.60762"
+       height="44.584057"
+       x="574.01575"
+       y="348.72302" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondensed"
+       x="581.88165"
+       y="359.33917"
+       id="text4308"
+       sodipodi:linespacing="112%"><tspan
+         sodipodi:role="line"
+         id="tspan4310"
+         x="581.88165"
+         y="359.33917"
+         style="font-size:8.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondLight">Die Kosten für Herstellung und Distribution dieses Flyers</tspan><tspan
+         sodipodi:role="line"
+         x="581.88165"
+         y="368.85916"
+         id="tspan4316"
+         style="font-size:8.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondLight">wurden von der Geofabrik GmbH (www.geofabrik.de) </tspan><tspan
+         sodipodi:role="line"
+         x="581.88165"
+         y="378.37918"
+         style="font-size:8.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondLight"
+         id="tspan2815">übernommen, die Software-Entwicklung, Beratung und </tspan><tspan
+         sodipodi:role="line"
+         x="581.88165"
+         y="387.89917"
+         style="font-size:8.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondLight"
+         id="tspan2342">Daten- bzw. Kartenservices für OpenStreetMap anbietet. </tspan></text>
+    <rect
+       style="fill:none;stroke:#40406d;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       id="rect6286"
+       width="94.723618"
+       height="132.7984"
+       x="49.6063"
+       y="183.96637" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherExtrabold"
+       x="937.13062"
+       y="341.23984"
+       id="text3367"
+       sodipodi:linespacing="130%"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047"><tspan
+         sodipodi:role="line"
+         id="tspan3369"
+         x="937.13062"
+         y="341.23984">Unterwegs</tspan><tspan
+         sodipodi:role="line"
+         x="937.13062"
+         y="364.63983"
+         id="tspan3371">für eine freie </tspan><tspan
+         sodipodi:role="line"
+         x="937.13062"
+         y="388.03983"
+         id="tspan3236">Weltkarte</tspan></text>
+    <g
+       transform="matrix(0.2357353,0,0,0.2357353,759.2607,296.41072)"
+       id="g4275">
+      <g
+         i:rgbTrio="#4F008000FFFF"
+         i:dimmedPercent="100"
+         i:layer="yes"
+         id="Ebene-1">
+        <g
+           id="g3762">
+          <path
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="path3764"
+             d="m 19.678,374.916 -9.161,0 0,3.698 4.818,0 0,5.497 c -1.188,0.373 -1.731,0.475 -2.884,0.475 -4.648,0 -7.6,-3.121 -7.6,-8.041 0,-4.784 2.986,-7.634 7.939,-7.634 2.172,0 4.072,0.407 5.972,1.255 l 0.305,-4.004 c -1.934,-0.61 -3.969,-0.916 -6.107,-0.916 C 4.852,365.247 0,369.521 0,376.714 c 0,3.562 1.357,6.956 3.529,8.855 1.968,1.73 4.885,2.646 8.55,2.646 2.816,0 5.293,-0.374 7.6,-1.188 l 0,-12.111 -10e-4,0 z"
+             clip-rule="evenodd"
+             i:knockout="Off" />
+          <polygon
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="polygon3766"
+             points="38.26,388.046 38.26,384.348 38.26,384.348 29.303,384.348 29.303,378.309 37.378,378.309 37.378,374.611 29.303,374.611 29.303,369.114 38.125,369.114 38.125,365.416 24.723,365.416 24.723,388.046 "
+             clip-rule="evenodd"
+             i:knockout="Off" />
+          <path
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="path3768"
+             d="m 52.99,364.907 c -6.854,0 -11.095,4.479 -11.095,11.773 0,7.396 4.173,11.875 11.095,11.875 6.683,0 11.026,-4.614 11.026,-11.671 10e-4,-7.397 -4.207,-11.977 -11.026,-11.977 z m -0.034,3.495 c 3.63,0 6.209,3.46 6.209,8.38 0,4.886 -2.545,8.279 -6.175,8.279 -3.766,0 -6.243,-3.325 -6.243,-8.312 0,-4.987 2.477,-8.347 6.209,-8.347 z"
+             clip-rule="evenodd"
+             i:knockout="Off" />
+          <polygon
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="polygon3770"
+             points="72.935,369.114 80.908,369.114 80.908,365.416 68.355,365.416 68.355,388.046 72.969,388.046 72.969,378.207 72.969,378.207 80.603,378.207 80.603,374.509 72.935,374.509 "
+             clip-rule="evenodd"
+             i:knockout="Off" />
+          <path
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="path3772"
+             d="m 105.562,388.046 -9.059,-22.63 -5.09,0 -8.821,22.63 4.716,0 1.934,-5.157 9.364,0 1.968,5.157 4.988,0 z m -8.346,-8.855 -6.582,0 2.714,-7.634 c 0.136,-0.441 0.136,-0.441 0.509,-1.866 0.169,0.679 0.238,0.916 0.441,1.493 l 2.918,8.007 z"
+             clip-rule="evenodd"
+             i:knockout="Off" />
+          <path
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="path3774"
+             d="m 108.64,388.046 6.887,0 c 3.495,0 4.648,-0.204 6.209,-1.12 1.9,-1.086 2.917,-2.884 2.917,-5.157 0,-3.088 -1.934,-5.124 -5.292,-5.564 3.053,-0.611 4.479,-2.206 4.479,-5.123 0,-1.73 -0.747,-3.257 -2.138,-4.309 -1.323,-0.984 -2.952,-1.357 -5.802,-1.357 l -7.261,0 0,22.63 0.001,0 z m 4.581,-3.461 0,-6.65 2.51,0 c 2.782,0 4.343,1.188 4.343,3.325 0,2.171 -1.628,3.325 -4.614,3.325 l -2.239,0 z m 0,-10.009 0,-5.666 2.341,0 c 2.477,0 3.698,0.95 3.698,2.884 0,1.832 -1.323,2.782 -3.868,2.782 l -2.171,0 z"
+             clip-rule="evenodd"
+             i:knockout="Off" />
+          <path
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="path3776"
+             d="m 133.999,388.046 0,-9.398 1.085,0 c 2.138,0 2.85,0.577 3.766,2.986 l 2.477,6.412 5.089,0 -3.258,-7.871 c -0.916,-2.24 -1.458,-2.918 -2.781,-3.461 2.917,-0.407 4.58,-2.375 4.58,-5.327 0,-1.934 -0.712,-3.528 -2.07,-4.581 -1.323,-1.018 -2.985,-1.391 -6.073,-1.391 l -7.43,0 0,22.63 4.615,0 0,10e-4 z m -0.035,-12.893 0,-6.209 2.409,0 c 2.443,0 3.732,1.018 3.732,2.952 0,2.137 -1.391,3.257 -4.105,3.257 l -2.036,0 z"
+             clip-rule="evenodd"
+             i:knockout="Off" />
+          <rect
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="rect3778"
+             height="22.629999"
+             width="4.5799999"
+             clip-rule="evenodd"
+             i:knockout="Off"
+             y="365.41599"
+             x="150.541" />
+          <path
+             style="fill:#7f7f7f;fill-rule:evenodd"
+             id="path3780"
+             d="m 179.543,388.046 -9.771,-12.18 9.263,-10.451 -5.497,0 -7.091,8.279 c -0.306,0.373 -0.679,0.814 -1.188,1.561 0.068,-0.611 0.102,-1.221 0.102,-1.798 l 0,-8.042 -4.581,0 0,22.63 4.581,0 0,-8.821 c 0,-0.916 0,-1.222 -0.102,-2.001 0.373,0.543 0.78,1.153 1.085,1.493 l 7.295,9.33 5.904,0 0,0 z"
+             clip-rule="evenodd"
+             i:knockout="Off" />
+        </g>
+      </g>
+      <g
+         id="g3783">
+        <polygon
+           i:knockout="Off"
+           points="64.359,277.645 61.795,265.448 74.009,268.015 94.015,237.362 114,267.982 126.061,265.448 123.518,277.544 154.265,297.612 123.53,317.672 126.061,329.713 114.037,327.187 94.015,357.862 73.973,327.154 61.795,329.713 61.795,329.713 64.347,317.572 33.765,297.612 "
+           id="polygon3785"
+           style="fill:#88bfcc" />
+        <g
+           id="g3787">
+          <path
+             i:knockout="Off"
+             clip-rule="evenodd"
+             d="m 112.253,293.867 -20.245,0 0,8.172 10.648,0 0,12.147 c -2.625,0.825 -3.825,1.049 -6.374,1.049 -10.272,0 -16.796,-6.898 -16.796,-17.771 0,-10.572 6.598,-16.87 17.545,-16.87 4.8,0 8.999,0.899 13.198,2.774 l 0.674,-8.849 c -4.273,-1.349 -8.772,-2.024 -13.496,-2.024 -17.921,0 -28.644,9.447 -28.644,25.344 0,7.873 3,15.372 7.799,19.57 4.349,3.824 10.797,5.849 18.896,5.849 6.224,0 11.698,-0.825 16.796,-2.625 l 0,-26.766 -0.001,0 z"
+             id="path3789"
+             style="fill:#ffffff;fill-rule:evenodd" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:41.35279083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherExtrabold"
+       x="-393.36859"
+       y="862.96704"
+       id="text3363"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         x="-393.36859"
+         y="862.96704"
+         dx="0 0 0 0 2.651968 0 0 0 0 0 3.9779522">OpenStreetMap</tspan></text>
+    <g
+       id="g3788">
+      <image
+         sodipodi:absref="/home/fred/svn.openstreetmap.org/misc/pr_material/german_flyer_2013_01/./hamburg.png"
+         xlink:href="./hamburg.png"
+         y="50.106117"
+         x="312.31097"
+         id="image3784"
+         height="270.82401"
+         width="495.81201" />
+      <rect
+         y="50.10627"
+         x="312.31107"
+         height="270.8237"
+         width="495.81186"
+         id="rect3666"
+         style="fill:none;stroke:#40406d;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2990"
+       transform="translate(0.5311948,-0.0656062)">
+      <image
+         sodipodi:absref="/home/fred/svn.openstreetmap.org/misc/pr_material/german_flyer_2013_01/buchcover.png"
+         xlink:href="buchcover.png"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         width="94.857666"
+         height="132.76146"
+         id="image2641"
+         x="49.6063"
+         y="182.06746" />
+      <rect
+         y="181.59016"
+         x="49.618301"
+         height="133.47879"
+         width="95.224449"
+         id="rect4177"
+         style="fill:none;stroke:#40406d;stroke-width:1.08699238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.66666667;fill-rule:evenodd;stroke:none"
+       id="rect2561"
+       width="234.60764"
+       height="15.193696"
+       x="574.01575"
+       y="328.65796" />
+    <image
+       sodipodi:absref="/home/fred/svn.openstreetmap.org/misc/pr_material/german_flyer_2013_01/osm.png"
+       xlink:href="osm.png"
+       inkscape:transform-center-y="0.0650818"
+       inkscape:transform-center-x="1.7791254"
+       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       width="71.127243"
+       height="71.127243"
+       id="image2836"
+       x="832.98285"
+       y="274.80225" />
+    <a
+       transform="translate(-0.077,-10.178801)"
+       id="a3657">
+      <flowRoot
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         xml:space="preserve"
+         id="flowRoot3659"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
+         transform="translate(13.896799,248.56322)"><flowRegion
+           id="flowRegion3661"><rect
+             id="rect3663"
+             width="233.99994"
+             height="92.491409"
+             x="35.687172"
+             y="88.272079"
+             style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
+           id="flowPara3669">OpenStreetMap veröffentlicht alle Daten unter der „Open Database License 1.0“; jeder kann sie frei verwenden, vorausgesetzt, man gibt die Quelle an und stellt etwaige auf OpenStreetMap aufbauende Daten- banken ebenfalls unter diese freie Lizenz.</flowPara></flowRoot>    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="markings"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="911.47784"
+       y="15.027878"
+       id="text2196"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047"><tspan
+         sodipodi:role="line"
+         id="tspan2198"
+         x="911.47784"
+         y="15.027878">Flyer Titelseite</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 1084.252,-2.9404297e-05 L 1084.252,17.716511"
+       id="path2218"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 822.04724,-2.9404297e-05 L 822.04724,17.716511"
+       id="path2220"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 559.84252,-2.9404297e-05 L 559.84252,17.716511"
+       id="path2222"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="104.60896"
+       y="13.9238"
+       id="text2200"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047"><tspan
+         sodipodi:role="line"
+         id="tspan2202"
+         x="104.60896"
+         y="13.9238">Flyer Rückseite</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 35.433071,-2.9404297e-05 L 35.433071,17.716511"
+       id="path2204"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 297.6378,-2.9404297e-05 L 297.6378,17.716511"
+       id="path2224"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 17.716535,35.433051 L 0,35.433051"
+       id="path2206"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 17.716535,407.48029 L 0,407.48029"
+       id="path2208"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 35.433071,425.19683 L 35.433071,442.91336"
+       id="path2210"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 297.6378,425.19683 L 297.6378,442.91336"
+       id="path2226"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 559.84252,425.19683 L 559.84252,442.91336"
+       id="path2228"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 822.04724,425.19683 L 822.04724,442.91336"
+       id="path2230"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 1084.252,425.19683 L 1084.252,442.91336"
+       id="path2212"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 1119.685,407.48029 L 1101.9685,407.48029"
+       id="path2214"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 1119.685,35.433051 L 1101.9685,35.433051"
+       id="path2216"
+       inkscape:export-filename="/tmp/1.png"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-ydpi="400.01047" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="mask_all"
+     style="opacity:0.85;display:inline">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -200,-164.5625 0,106.78125 0,93.21875 0,437.6875 0,134.34375 1520,0 0,-125.25 0,-74.75 0,-372.03125 0,-146.09375 0,-53.90625 -1520,0 0,0 z m 235.4375,200 1048.8125,0 0,372.03125 -1048.8125,0 0,-372.03125 z"
+       id="rect3834"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="mask_front"
+     style="opacity:0.85;display:none">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       d="m -200,-164.5625 0,106.78125 0,93.21875 0,437.6875 0,134.34375 1520,0 0,-125.25 0,-74.75 0,-372.03125 0,-146.09375 0,-53.90625 -1520,0 z m 1022.0625,200 262.1875,0 0,372.03125 -262.1875,0 0,-372.03125 z"
+       id="path3897" />
+  </g>
+</svg>

@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1119.6851"
-   height="442.91336"
+   width="1062.9921"
+   height="386.22046"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
@@ -31,11 +31,11 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7979923"
-     inkscape:cx="415.59093"
-     inkscape:cy="363.74637"
+     inkscape:zoom="3.1919692"
+     inkscape:cx="584.51535"
+     inkscape:cy="94.262885"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      width="316mm"
      height="125mm"
      units="mm"
@@ -164,7 +164,8 @@
      inkscape:label="flyer"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-56.692898)">
     <image
        sodipodi:absref="/home/andy/temp/pr_material/german_flyer_2013_01/berlin-background-blaugrau.png"
        xlink:href="/home/andy/temp/pr_material/german_flyer_2013_01/berlin-background-blaugrau.png"
@@ -195,7 +196,7 @@
          id="tspan3399"
          x="48.7943"
          y="64.745361"
-         style="-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Join OpenStreetMap today!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Join OpenStreetMap today!</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3401"
@@ -305,7 +306,7 @@
          x="-393.36859"
          y="862.96704"
          dx="0 0 0 0 2.651968 0 0 0 0 0 3.9779522"
-         style="-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">OpenStreetMap</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">OpenStreetMap</tspan></text>
     <g
        id="g3788">
       <rect
@@ -375,7 +376,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3910"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3912"><rect
            id="rect3914"
            width="125.31449"
@@ -389,12 +390,35 @@
        xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/signup-guy.png"
        height="89.474754"
        width="231.3165" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3918"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.85;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-2.6734063,18.085436)"><flowRegion
+         id="flowRegion3920"><rect
+           id="rect3922"
+           width="250.0024"
+           height="54.198502"
+           x="580.51941"
+           y="334.20303" /></flowRegion><flowPara
+         id="flowPara3926"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">This flyer created by Andy Allan (www.gravitystorm.co.uk) and</flowPara><flowPara
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowPara3936">funded by Thunderforest (www.thunderforest.com)</flowPara><flowPara
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowPara3940" /><flowPara
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowPara3942">Order these flyers at shop.opencyclemap.org</flowPara><flowPara
+         id="flowPara3928"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><flowPara
+         id="flowPara3930"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="markings"
-     style="display:none">
+     style="display:none"
+     transform="translate(0,-56.692898)">
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -538,40 +562,20 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="mask_all"
-     style="opacity:0.85;display:inline">
+     style="opacity:0.85;display:inline"
+     transform="translate(0,-56.692898)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m -200,-164.5625 0,106.78125 0,93.21875 0,437.6875 0,134.34375 1520,0 0,-125.25 0,-74.75 0,-372.03125 0,-146.09375 0,-53.90625 -1520,0 0,0 z m 235.4375,200 1048.8125,0 0,372.03125 -1048.8125,0 0,-372.03125 z"
        id="rect3834"
        inkscape:connector-curvature="0" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3918"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-2.8195761,17.544029)"><flowRegion
-         id="flowRegion3920"><rect
-           id="rect3922"
-           width="250.0024"
-           height="54.198502"
-           x="580.51941"
-           y="334.20303" /></flowRegion><flowPara
-         id="flowPara3926"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">This flyer created by Andy Allan (www.gravitystorm.co.uk) and</flowPara><flowPara
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         id="flowPara3936">funded by Thunderforest (www.thunderforest.com)</flowPara><flowPara
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         id="flowPara3940" /><flowPara
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         id="flowPara3942">Order these flyers at shop.opencyclemap.org</flowPara><flowPara
-         id="flowPara3928"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><flowPara
-         id="flowPara3930"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRoot>  </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="mask_front"
-     style="opacity:0.85;display:none">
+     style="opacity:0.85;display:none"
+     transform="translate(0,-56.692898)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        d="m -200,-164.5625 0,106.78125 0,93.21875 0,437.6875 0,134.34375 1520,0 0,-125.25 0,-74.75 0,-372.03125 0,-146.09375 0,-53.90625 -1520,0 z m 1022.0625,200 262.1875,0 0,372.03125 -262.1875,0 0,-372.03125 z"

@@ -32,10 +32,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7979923"
-     inkscape:cx="503.63399"
-     inkscape:cy="246.39252"
+     inkscape:cx="415.59093"
+     inkscape:cy="363.74637"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      width="316mm"
      height="125mm"
      units="mm"
@@ -200,7 +200,7 @@
        xml:space="preserve"
        id="flowRoot3401"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
-       transform="translate(22.009241,102.97102)"
+       transform="translate(22.009241,90.97102)"
        inkscape:export-filename="/tmp/1.png"
        inkscape:export-xdpi="400.01047"
        inkscape:export-ydpi="400.01047"><flowRegion
@@ -216,7 +216,7 @@
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="flowSpan3839">www.openstreetmap.org.</flowSpan> Signing up is quick, easy, and of course, free of charge.</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         id="flowPara3841"></flowPara><flowPara
+         id="flowPara3841" /><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          id="flowPara3843">We also have a wiki with a wealth of project information, topic- and country-specific mailing lists, and a Q&amp;A help system if you get stuck.</flowPara><flowPara
          id="flowPara2580"
@@ -348,13 +348,6 @@
        xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/london.png"
        height="268.44479"
        width="490.76303" />
-    <image
-       y="88.808418"
-       x="62.033314"
-       id="image3836"
-       xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/signup-guy2.png"
-       height="88.529739"
-       width="228.87338" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3401-8"
@@ -389,7 +382,14 @@
            height="27.569189"
            x="596.81024"
            y="333.88974" /></flowRegion><flowPara
-         id="flowPara3916"></flowPara></flowRoot>  </g>
+         id="flowPara3916" /></flowRoot>    <image
+       y="80.657806"
+       x="58.407471"
+       id="image3143"
+       xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/signup-guy.png"
+       height="89.474754"
+       width="231.3165" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -560,7 +560,7 @@
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          id="flowPara3936">funded by Thunderforest (www.thunderforest.com)</flowPara><flowPara
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         id="flowPara3940"></flowPara><flowPara
+         id="flowPara3940" /><flowPara
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          id="flowPara3942">Order these flyers at shop.opencyclemap.org</flowPara><flowPara
          id="flowPara3928"

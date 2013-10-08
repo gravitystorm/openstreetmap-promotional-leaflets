@@ -31,11 +31,11 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7979923"
-     inkscape:cx="343.64283"
-     inkscape:cy="221.65569"
+     inkscape:zoom="1.5959846"
+     inkscape:cx="226.32372"
+     inkscape:cy="158.58225"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g3188"
      width="316mm"
      height="125mm"
      units="mm"
@@ -216,9 +216,9 @@
              width="234.53551"
              id="rect3405" /></flowRegion><flowPara
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           id="flowPara2574">The international project start page and map portal can be found at <flowSpan
-   id="flowSpan3839"
-   style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold">www.openstreetmap.org.</flowSpan> Signing up is quick, easy, and of course, free of charge.</flowPara><flowPara
+           id="flowPara2574">Our project website and documentation can be found at <flowSpan
+   style="font-weight:bold"
+   id="flowSpan4048">www.openstreetmap.org</flowSpan>. Signing up is quick, easy, and of course, free of charge.</flowPara><flowPara
            id="flowPara3841"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><flowPara
            id="flowPara3843"
@@ -254,7 +254,7 @@
              width="233.48528"
              id="rect10345" /></flowRegion><flowPara
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           id="flowPara10351">The map above shows an OpenStreetMap rendering of London. Just like the map on the other side and the globe on the front page, it was created with Open Source software. Many Open Source software projects have been created specially for OpenStreetMap</flowPara></flowRoot>      <rect
+           id="flowPara10351">The map above shows an OpenStreetMap rendering of London. Just like the map on the other side and the globe on the front page, it was created with Open Source software. Many Open Source software projects have been created specially for OpenStreetMap.</flowPara></flowRoot>      <rect
          y="348.72302"
          x="574.01575"
          height="44.584057"
@@ -368,7 +368,7 @@
              width="234.53551"
              id="rect3405-4" /></flowRegion><flowPara
            id="flowPara3896"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">OpenStreeMap data is published under the &quot;Open Database License 1.0&quot; (ODbL). Anyone can share, adapt, and create works from our data freely, provided that they give attribution to &quot;OpenStreetMap contributors&quot;, and share any adapted databases under the same license. </flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">OpenStreetMap data is published under the &quot;Open Database License 1.0&quot; (ODbL). Anyone can share, adapt, and create works from our data freely, provided that they give attribution to &quot;OpenStreetMap contributors&quot;, and share any adapted databases under the same license. </flowPara><flowPara
            id="flowPara3894"
            style="font-size:10px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic">http://www.openstreetmap.org/copyright</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -570,7 +570,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="mask_all"
-     style="opacity:0.85;display:inline"
+     style="opacity:0.85;display:none"
      transform="translate(0,-56.692898)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"

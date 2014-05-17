@@ -175,16 +175,16 @@
          id="image2738"
          x="-261.03812"
          y="17.716511"
-         xlink:href="/home/andy/temp/pr_material/german_flyer_2013_01/berlin-background-blaugrau.png"
-         sodipodi:absref="/home/andy/temp/pr_material/german_flyer_2013_01/berlin-background-blaugrau.png" />
+         xlink:href="berlin-background-blaugrau.png"
+         sodipodi:absref="berlin-background-blaugrau.png" />
       <image
          y="24.243629"
          x="794.24286"
          id="image2726"
          height="396.18701"
          width="327.56903"
-         xlink:href="/home/andy/temp/pr_material/german_flyer_2013_01/globe_part_halo.png"
-         sodipodi:absref="/home/andy/temp/pr_material/german_flyer_2013_01/globe_part_halo.png" />
+         xlink:href="globe_part_halo.png"
+         sodipodi:absref="globe_part_halo.png" />
       <text
          inkscape:export-ydpi="400.01047"
          inkscape:export-xdpi="400.01047"
@@ -336,8 +336,8 @@
          transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
          inkscape:transform-center-x="1.7791254"
          inkscape:transform-center-y="0.0650818"
-         xlink:href="/home/andy/temp/pr_material/german_flyer_2013_01/osm.png"
-         sodipodi:absref="/home/andy/temp/pr_material/german_flyer_2013_01/osm.png" />
+         xlink:href="osm.png"
+         sodipodi:absref="osm.png" />
       <image
          width="22.366701"
          height="22.366701"
@@ -348,7 +348,7 @@
       <image
          width="490.76303"
          height="268.44479"
-         xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/london.png"
+         xlink:href="london.png"
          id="image3171"
          x="313.51831"
          y="51.471909" />
@@ -389,7 +389,7 @@
            id="flowPara3916" /></flowRoot>      <image
          width="231.3165"
          height="89.474754"
-         xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/signup-guy.png"
+         xlink:href="signup-guy.png"
          id="image3143"
          x="58.407471"
          y="80.657806" />

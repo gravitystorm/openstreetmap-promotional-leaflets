@@ -1568,7 +1568,7 @@
       <image
          width="232.73746"
          height="342.17575"
-         xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/bodged.png"
+         xlink:href="bodged.png"
          id="image3372"
          x="836.76056"
          y="50.045944" />
@@ -1719,14 +1719,14 @@
            y="50.134716"
            x="312.34131"
            id="image3310"
-           xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/edinburgh.png"
+           xlink:href="edinburgh.png"
            height="342.19293"
            width="232.76666" />
       </g>
       <image
          width="57.978966"
          height="161.1097"
-         xlink:href="file:///home/andy/temp/pr_material/english_flyer_2013_10/garmin.png"
+         xlink:href="garmin.png"
          id="image3757"
          x="49.36401"
          y="162.90639" />

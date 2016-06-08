@@ -1,8 +1,8 @@
 # OpenStreetMap Promotional Leaflets
 
-![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets.png)
+![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets.jpg)
 
-![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets2.png)
+![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets2.jpg)
 
 This repository contains the source files for an OSM flyer (in English) that was
 originally created by Frederik Ramm <frederik@remote.org> and

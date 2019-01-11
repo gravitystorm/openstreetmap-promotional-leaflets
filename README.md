@@ -20,6 +20,27 @@ colour printing.
 The flyer was made with Inkscape; osmflyer1.svg and osmflyer2.svg
 are the front and reverse side.
 
+See https://www.openstreetmap.org/user/alexkemp/diary/47345
+
+## Files:
+
+***osmflyer1.svg + osmflyer2.svg***: created under Inkscape v0.48.3.1 r9886
+***osmflyer1-r15371.svg + .pdf***:   created under Inkscape v0.92.1 r15371
+***osmflyer2-r15371.svg + .pdf***:   created under Inkscape v0.92.1 r15371
+***PDFs***: page size: 105mm high x 296mm wide + 3mm bleed
+***README.md***:  this text with Unix line-endings
+***README.txt***: this text with Windows line-endings
+
+## Fonts:
+
+***Ubuntu***: https://assets.ubuntu.com/v1/fad7939b-ubuntu-font-family-0.83.zip
+***Open Sans***: https://github.com/onitake/fonts-open-sans
+***Bitstream Vera Sans***: http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/
+
+## Program:
+
+***Inkscape***: https://inkscape.org/release/
+
 Some notes in case you want to re-create something yourself:
 
 * `berlin-background.png` is basically a 4-year-old Osmarender rendering
@@ -36,3 +57,5 @@ outlined here: http://wiki.openstreetmap.org/wiki/Marble
 * To generate the high-res png maps, use the following commands
 `~/src/nik2img/nik2img.py -d 2479 1356 -z 14 -c -0.128056 51.508056 --scale-factor 3 ~/src/openstreetmap-carto/osm-carto.xml london.png`
 `~/src/nik2img/nik2img.py -d 1974 2902 -z 15 -c -3.19864 55.95 --scale-factor 3 ~/src/openstreetmap-carto/osm-carto.xml edinburgh.png`
+
+2019-01-11 updated -AK

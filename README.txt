@@ -1,8 +1,8 @@
 # OpenStreetMap Promotional Leaflets
 
-![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets.jpg)
+![photo](https://raw.github.com/alexkemp9/openstreetmap-promotional-leaflets/master/leaflets.jpg)
 
-![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets2.jpg)
+![photo](https://raw.github.com/alexkemp9/openstreetmap-promotional-leaflets/master/leaflets2.jpg)
 
 This repository contains the source files for an OSM flyer (in English) that was
 originally created by Frederik Ramm <frederik@remote.org> and
@@ -15,21 +15,25 @@ which are CC BY-SA, and except for non-OSM logos.
 
 The flyer is designed for DIN A7 as the final size (105mm high and
 74mm wide), with 8 pages in a zig-zag ("Leporello") fold, and full
-colour printing.
+colour printing. 
 
-The flyer was made with Inkscape; osmflyer1.svg and osmflyer2.svg
+The flyer was made with Inkscape; osmflyer1.pdf and osmflyer2.pdf
 are the front and reverse side.
 
 ## *HowTo print*:
 
-https://www.openstreetmap.org/user/alexkemp/diary/47345
+See https://www.openstreetmap.org/user/alexkemp/diary/47536
+
+## *Directories*:
+
+***Inkscape-r15371***: The most recent SVG/PDF files have been updated under Inkscape v0.92.1 r15371    
+***Inkscape-r9886***: The original SVG files were created under Inkscape v0.48.3.1 r9886     
 
 ## *Files*:
 
 ***PDFs***: page size: A7 Portrait; 105mm high x 296mm wide; 3mm bleed    
-***osmflyer.pdf***: r15371 combo of osmflyer1.pdf + osmflyer2.pdf    
-***osmflyer1.svg + osmflyer2.svg***: created under Inkscape v0.48.3.1 r9886    
-***osmflyer?-r15371.svg + .pdf***:   created under Inkscape v0.92.1 r15371    
+***./osmflyer.pdf***: r15371 combo of osmflyer1.pdf + osmflyer2.pdf    
+***SVGs***: Inkscape stores it’s work within SVG v1.2 files; those files are NOT web-compatible    
 ***README.md***:  this text with Unix line-endings    
 ***README.txt***: this text with Windows line-endings
 
@@ -42,6 +46,13 @@ https://www.openstreetmap.org/user/alexkemp/diary/47345
 ## *Program*:
 
 ***Inkscape***: https://inkscape.org/release/
+
+## *Updates*:
+
+- ***2018-12-30***: (AK) the main work was to update the r9886 SVGs for Inkscape r15371
+(see https://www.openstreetmap.org/user/alexkemp/diary/47345).
+- ***2019-01-30***: (AK) correcting padding errors discovered after printing the updated PDFs
++ added sub-dirs
 
 Some notes in case you want to re-create something yourself:
 

@@ -53,6 +53,7 @@ See https://www.openstreetmap.org/user/alexkemp/diary/47536
 (see https://www.openstreetmap.org/user/alexkemp/diary/47345).
 - ***2019-01-30***: (AK) correcting padding errors discovered after printing the updated PDFs
 (see https://www.openstreetmap.org/user/alexkemp/diary/47536) + added sub-dirs
+ + added replacement photos
 
 Some notes in case you want to re-create something yourself:
 

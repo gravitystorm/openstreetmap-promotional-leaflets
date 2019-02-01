@@ -31,8 +31,8 @@ See https://www.openstreetmap.org/user/alexkemp/diary/47536
 
 ## *Files*:
 
-***PDFs***: page size: A7 Portrait; 105mm high x 296mm wide; 3mm bleed    
-***./osmflyer.pdf***: r15371 combo of osmflyer1.pdf + osmflyer2.pdf    
+***osmflyer.pdf***: r15371 combo of osmflyer1.pdf + osmflyer2.pdf    
+***PDFs***: page size: A7 Portrait; 105mm high x 296mm wide; 3mm bleed; printshop-ready    
 ***SVGs***: Inkscape stores it’s work within SVG v1.2 files; those files are NOT web-compatible    
 ***README.md***:  this text with Unix line-endings    
 ***README.txt***: this text with Windows line-endings
@@ -51,9 +51,8 @@ See https://www.openstreetmap.org/user/alexkemp/diary/47536
 
 - ***2018-12-30***: (AK) the main work was to update the r9886 SVGs for Inkscape r15371
 (see https://www.openstreetmap.org/user/alexkemp/diary/47345).
-- ***2019-01-30***: (AK) correcting padding errors discovered after printing the updated PDFs
-(see https://www.openstreetmap.org/user/alexkemp/diary/47536) + added sub-dirs
- + added replacement photos
+- ***2019-01-30***: (AK) corrected padding errors discovered after printing the updated PDFs
+(see https://www.openstreetmap.org/user/alexkemp/diary/47536) + added sub-dirs + added replacement photos
 
 Some notes in case you want to re-create something yourself:
 

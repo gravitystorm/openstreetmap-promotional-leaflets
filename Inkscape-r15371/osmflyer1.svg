@@ -16,7 +16,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.92.1 r15371"
    version="1.0"
-   sodipodi:docname="osmflyer1-r15371.svg"
+   sodipodi:docname="osmflyer1.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    style="display:inline">
   <title
@@ -35,9 +35,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="599.12923"
-     inkscape:cy="187.7735"
+     inkscape:cy="171.79596"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3188"
      width="316mm"
      height="125mm"
      units="mm"
@@ -234,21 +234,21 @@
        id="g3188"
        transform="translate(-11.424732,46.167247)">
       <image
-         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/berlin-background-blaugrau.png"
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/berlin-background-blaugrau.png"
          xlink:href="berlin-background-blaugrau.png"
-         y="18.897612"
-         x="-278.44064"
-         id="image2738"
+         width="1512.1306"
          height="434.35953"
-         width="1512.1306" />
+         id="image2738"
+         x="-278.44064"
+         y="18.897612" />
       <image
-         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/globe_part_halo.png"
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/globe_part_halo.png"
          xlink:href="globe_part_halo.png"
-         width="349.40695"
-         height="422.59949"
-         id="image2726"
+         y="25.859871"
          x="847.19238"
-         y="25.859871" />
+         id="image2726"
+         height="422.59949"
+         width="349.40695" />
       <text
          inkscape:export-ydpi="400.01047"
          inkscape:export-xdpi="400.01047"
@@ -269,7 +269,8 @@
          inkscape:export-filename="/tmp/1.png"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06666672"
          id="flowRoot3401"
-         xml:space="preserve"><flowRegion
+         xml:space="preserve"
+         transform="matrix(1.0922992,0,0,1,-15.680369,0)"><flowRegion
            id="flowRegion3403"
            style="stroke-width:1.06666672"><rect
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.73333359px;line-height:125%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.13777781"
@@ -307,7 +308,8 @@
          inkscape:export-filename="/tmp/1.png"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06666672"
          id="flowRoot10341"
-         xml:space="preserve"><flowRegion
+         xml:space="preserve"
+         transform="matrix(1.0418928,0,0,0.89603556,-14.936188,36.216919)"><flowRegion
            id="flowRegion10343"
            style="stroke-width:1.06666672"><rect
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.73333359px;line-height:125%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.13777781"
@@ -389,16 +391,16 @@
          id="rect2561"
          style="fill:#ffffff;fill-opacity:0.66666667;fill-rule:evenodd;stroke:none;stroke-width:1.06666672" />
       <image
-         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/osm.png"
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/osm.png"
          xlink:href="osm.png"
-         inkscape:transform-center-y="0.069420587"
-         inkscape:transform-center-x="1.8977338"
-         transform="rotate(-14.448299)"
-         width="75.869057"
-         height="75.869057"
-         id="image2836"
+         y="293.12241"
          x="888.51501"
-         y="293.12241" />
+         id="image2836"
+         height="75.869057"
+         width="75.869057"
+         transform="rotate(-14.448299)"
+         inkscape:transform-center-x="1.8977338"
+         inkscape:transform-center-y="0.069420587" />
       <image
          width="23.857815"
          height="23.857815"
@@ -407,20 +409,21 @@
          x="833.69336"
          y="391.83966" />
       <image
-         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/london.png"
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/london.png"
          xlink:href="london.png"
-         y="54.90337"
-         x="334.41953"
+         width="529.13403"
+         height="290.30508"
          id="image3171"
-         height="286.34113"
-         width="523.48059" />
+         x="330.73428"
+         y="50.939404" />
       <flowRoot
          inkscape:export-ydpi="400.01047"
          inkscape:export-xdpi="400.01047"
          inkscape:export-filename="/tmp/1.png"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;stroke-width:1.06666672"
          id="flowRoot3401-8"
-         xml:space="preserve"><flowRegion
+         xml:space="preserve"
+         transform="matrix(0.99200333,0,0,1.217497,-6.5282121,-98.472254)"><flowRegion
            id="flowRegion3403-2"
            style="stroke-width:1.06666672"><rect
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.73333359px;line-height:125%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.13777781"
@@ -458,13 +461,13 @@
              style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
            id="flowPara3916"
            style="font-size:10.66666698px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672"> </flowPara></flowRoot>      <image
-         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/signup-guy.png"
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/signup-guy.png"
          xlink:href="signup-guy.png"
-         y="86.034996"
-         x="62.301304"
+         width="249.44901"
+         height="99.439735"
          id="image3143"
-         height="95.439735"
-         width="246.73759" />
+         x="51.049294"
+         y="83.034996" />
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.85;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
          id="flowRoot3918"

@@ -4,6 +4,8 @@
 
 ![photo](https://raw.github.com/alexkemp9/openstreetmap-promotional-leaflets/master/leaflets2.jpg)
 
+![photo](https://raw.github.com/alexkemp9/openstreetmap-promotional-leaflets/master/preview-front-options.jpg)
+
 This repository contains the source files for an OSM flyer (in English) that was
 originally created by Frederik Ramm <frederik@remote.org> and
 contributors from the talk-de list in January 2008, and subsequently
@@ -35,6 +37,8 @@ See https://www.openstreetmap.org/user/alexkemp/diary/47536
 ***alternate.pdf***: r15371 combo of osmflyer1-2.pdf + osmflyer2.pdf    
 ***PDFs***: page size: A7 Portrait; 105mm high x 296mm wide; 3mm bleed; printshop-ready    
 ***SVGs***: Inkscape stores it’s work within SVG v1.2 files; those files are NOT web-compatible    
+***XCF***: GIMP image (to produce the preview JPEG), obtained from a r15371 combo of osmflyer1.svg.png + osmflyer1-2.svg.png;
+the preview contains page + bleed crop-marks; whilst page-creases are indicated with vertical dotted lines    
 ***README.md***:  this text with Unix line-endings    
 ***README.txt***: this text with Windows line-endings
 
@@ -54,6 +58,8 @@ See https://www.openstreetmap.org/user/alexkemp/diary/47536
 (see https://www.openstreetmap.org/user/alexkemp/diary/47345).
 - ***2019-01-30***: (AK) corrected padding errors discovered after printing the updated PDFs
 (see https://www.openstreetmap.org/user/alexkemp/diary/47536) + added sub-dirs + added replacement photos
+- ***2019-02-05***: (AK) added preview-front-options.jpg to give a preview of 2 versions of the leaflet front
+(see https://www.openstreetmap.org/user/alexkemp/diary/47653)
 
 Some notes in case you want to re-create something yourself:
 

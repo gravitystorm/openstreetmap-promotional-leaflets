@@ -17,8 +17,8 @@ The flyer is designed for DIN A7 as the final size (105mm high and
 74mm wide), with 8 pages in a zig-zag ("Leporello") fold, and full
 colour printing. 
 
-The flyer was made with Inkscape; osmflyer1.pdf and osmflyer2.pdf
-are the front and reverse side.
+The flyer was made with Inkscape; osmflyer1.pdf, osmflyer1-2.pdf and osmflyer2.pdf
+are the front (2 options) and reverse side.
 
 ## *HowTo print*:
 
@@ -26,12 +26,13 @@ See https://www.openstreetmap.org/user/alexkemp/diary/47536
 
 ## *Directories*:
 
-***Inkscape-r15371***: The most recent SVG/PDF files have been updated under Inkscape v0.92.1 r15371    
+***Inkscape-r15371***: These most recent SVG/PDF files have been updated under Inkscape v0.92.1 r15371    
 ***Inkscape-r9886***: The original SVG files were created under Inkscape v0.48.3.1 r9886     
 
 ## *Files*:
 
-***osmflyer.pdf***: r15371 combo of osmflyer1.pdf + osmflyer2.pdf    
+***osmflyer.pdf***: r15371 combo of osmflyer1.pdf + osmflyer2.pdf (original style)    
+***alternate.pdf***: r15371 combo of osmflyer1-2.pdf + osmflyer2.pdf    
 ***PDFs***: page size: A7 Portrait; 105mm high x 296mm wide; 3mm bleed; printshop-ready    
 ***SVGs***: Inkscape stores it’s work within SVG v1.2 files; those files are NOT web-compatible    
 ***README.md***:  this text with Unix line-endings    

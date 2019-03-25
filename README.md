@@ -1,8 +1,10 @@
 # OpenStreetMap Promotional Leaflets
 
-![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets.jpg)
+![photo](https://raw.github.com/alexkemp9/openstreetmap-promotional-leaflets/master/leaflets.jpg)
 
-![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets2.jpg)
+![photo](https://raw.github.com/alexkemp9/openstreetmap-promotional-leaflets/master/leaflets2.jpg)
+
+![photo](https://raw.github.com/alexkemp9/openstreetmap-promotional-leaflets/master/preview-front-options.jpg)
 
 This repository contains the source files for an OSM flyer (in English) that was
 originally created by Frederik Ramm <frederik@remote.org> and
@@ -15,10 +17,49 @@ which are CC BY-SA, and except for non-OSM logos.
 
 The flyer is designed for DIN A7 as the final size (105mm high and
 74mm wide), with 8 pages in a zig-zag ("Leporello") fold, and full
-colour printing.
+colour printing. 
 
-The flyer was made with Inkscape; osmflyer1.svg and osmflyer2.svg
-are the front and reverse side.
+The flyer was made with Inkscape; osmflyer1.pdf, osmflyer1-2.pdf and osmflyer2.pdf
+are the front (2 options) and reverse side.
+
+## *HowTo print*:
+
+See https://www.openstreetmap.org/user/alexkemp/diary/47536
+
+## *Directories*:
+
+***Inkscape-r15371***: These most recent SVG/PDF files have been updated under Inkscape v0.92.1 r15371    
+***Inkscape-r9886***: The original SVG files were created under Inkscape v0.48.3.1 r9886     
+
+## *Files*:
+
+***osmflyer.pdf***: r15371 combo of osmflyer1.pdf + osmflyer2.pdf (original style)    
+***alternate.pdf***: r15371 combo of osmflyer1-2.pdf + osmflyer2.pdf    
+***PDFs***: page size: A7 Portrait; 105mm high x 296mm wide; 3mm bleed; printshop-ready    
+***SVGs***: Inkscape stores it’s work within SVG v1.2 files; those files are NOT web-compatible    
+***XCF***: GIMP image (to produce the preview JPEG), obtained from a r15371 combo of osmflyer1.svg.png + osmflyer1-2.svg.png;
+the preview contains page + bleed crop-marks; whilst page-creases are indicated with vertical dotted lines    
+***README.md***:  this text with Unix line-endings    
+***README.txt***: this text with Windows line-endings
+
+## *Fonts*:
+
+***Ubuntu***: https://assets.ubuntu.com/v1/fad7939b-ubuntu-font-family-0.83.zip    
+***Open Sans***: https://github.com/onitake/fonts-open-sans    
+***Bitstream Vera Sans***: http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/
+
+## *Program*:
+
+***Inkscape***: https://inkscape.org/release/
+
+## *Updates*:
+
+- ***2018-12-30***: (AK) the main work was to update the r9886 SVGs for Inkscape r15371
+(see https://www.openstreetmap.org/user/alexkemp/diary/47345).
+- ***2019-01-30***: (AK) corrected padding errors discovered after printing the updated PDFs
+(see https://www.openstreetmap.org/user/alexkemp/diary/47536) + added sub-dirs + added replacement photos
+- ***2019-02-05***: (AK) added preview-front-options.jpg to give a preview of 2 versions of the leaflet front
+(see https://www.openstreetmap.org/user/alexkemp/diary/47653)
 
 Some notes in case you want to re-create something yourself:
 

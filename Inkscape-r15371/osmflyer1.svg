@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="296mm"
+   height="105mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.1 r15371"
+   version="1.0"
+   sodipodi:docname="osmflyer1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="display:inline">
+  <title
+     id="title114">OSM Flyer; Front Page</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#e1f3fa"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="599.12923"
+     inkscape:cy="171.79596"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g3188"
+     width="316mm"
+     height="125mm"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:guide-points="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:object-points="false"
+     inkscape:object-paths="false"
+     inkscape:grid-bbox="false"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       id="guide123"
+       inkscape:locked="true"
+       inkscape:label="Page bottom"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1118.74,0"
+       orientation="1,0"
+       id="guide125"
+       inkscape:locked="true"
+       inkscape:label="Page right"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1118.7402,396.85"
+       orientation="0,1"
+       id="guide127"
+       inkscape:locked="true"
+       inkscape:label="Page top"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,396.85039"
+       orientation="1,0"
+       id="guide129"
+       inkscape:locked="true"
+       inkscape:label="Page left"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="559.37,0"
+       orientation="1,0"
+       id="guide131"
+       inkscape:locked="true"
+       inkscape:label="Fold - centre"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="279.685,0"
+       orientation="1,0"
+       id="guide133"
+       inkscape:locked="true"
+       inkscape:label="Fold - left"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="839.055,0"
+       orientation="1,0"
+       id="guide135"
+       inkscape:locked="true"
+       inkscape:label="Fold - right"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,15.118"
+       orientation="0,1"
+       id="guide137"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - bottom"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15.118,0"
+       orientation="1,0"
+       id="guide139"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - left"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,381.732"
+       orientation="0,1"
+       id="guide141"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - top"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1103.622,0"
+       orientation="1,0"
+       id="guide143"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - right"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="264.567,0"
+       orientation="1,0"
+       id="guide145"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - left-fold-left"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="294.803,0"
+       orientation="1,0"
+       id="guide147"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - left-fold-right"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="544.252,0"
+       orientation="1,0"
+       id="guide149"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - centre-fold-left"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="574.488,0"
+       orientation="1,0"
+       id="guide151"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - centre-fold-right"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="823.937,0"
+       orientation="1,0"
+       id="guide153"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - right-fold-left"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="854.173,0"
+       orientation="1,0"
+       id="guide155"
+       inkscape:locked="true"
+       inkscape:label="4mm Padding - right-fold-right"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OSM Flyer; Front Page</dc:title>
+        <dc:date>2019-01-30</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andy Allan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Open Source</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Alex Kemp</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:language>EN</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="flyer"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-24.506561,-81.988258)">
+    <g
+       id="g3188"
+       transform="translate(-11.424732,46.167247)">
+      <image
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/berlin-background-blaugrau.png"
+         xlink:href="berlin-background-blaugrau.png"
+         width="1512.1306"
+         height="434.35953"
+         id="image2738"
+         x="-278.44064"
+         y="18.897612" />
+      <image
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/globe_part_halo.png"
+         xlink:href="globe_part_halo.png"
+         y="25.859871"
+         x="847.19238"
+         id="image2726"
+         height="422.59949"
+         width="349.40695" />
+      <text
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="text3397"
+         y="69.061722"
+         x="52.047253"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:FrobisherCondExtrabold;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.9333334px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           y="69.061722"
+           x="52.047253"
+           id="tspan3399"
+           sodipodi:role="line">Update OpenStreetMap today!</tspan></text>
+      <flowRoot
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06666672"
+         id="flowRoot3401"
+         xml:space="preserve"
+         transform="matrix(1.0922992,0,0,1,-15.680369,0)"><flowRegion
+           id="flowRegion3403"
+           style="stroke-width:1.06666672"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.73333359px;line-height:125%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.13777781"
+             y="191.19264"
+             x="61.542839"
+             height="113.44781"
+             width="250.1712"
+             id="rect3405" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara2574">Our project website and documentation can be found at <flowSpan
+   style="font-style:italic;font-weight:bold;stroke-width:1.06666672"
+   id="flowSpan4048">osm.org</flowSpan> (www.openstreetmap.org). Signing up is quick, easy, and free of charge.</flowPara><flowPara
+           id="flowPara3841"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"> </flowPara><flowPara
+           id="flowPara3843"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672">We also have a wiki with a wealth of project information, topic- and country-specific mailing lists, and a Q&amp;A help system if you get stuck.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara2580"> </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara2576">  </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara2572" /></flowRoot>      <rect
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         y="52.939125"
+         x="332.62421"
+         height="289.11444"
+         width="529.88531"
+         id="rect5375"
+         style="fill:none;stroke:#40406d;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <flowRoot
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06666672"
+         id="flowRoot10341"
+         xml:space="preserve"
+         transform="matrix(1.0418928,0,0,0.89603556,-14.936188,36.216919)"><flowRegion
+           id="flowRegion10343"
+           style="stroke-width:1.06666672"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.73333359px;line-height:125%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.13777781"
+             y="346.68961"
+             x="332.49246"
+             height="98.497421"
+             width="249.05096"
+             id="rect10345" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara10351">The map above shows an OpenStreetMap rendering of London. Just like the map on the other side and the globe on the front page, it was created with Open Source software. Many Open Source software projects have been created especially for OpenStreetMap.</flowPara></flowRoot>      <rect
+         y="371.97122"
+         x="612.28345"
+         height="47.556328"
+         width="250.24812"
+         id="rect2510"
+         style="fill:#ffffff;fill-opacity:0.66666667;fill-rule:evenodd;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="196.23079"
+         x="52.913387"
+         height="141.65163"
+         width="101.03853"
+         id="rect6286"
+         style="fill:none;stroke:#40406d;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <text
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="text3367"
+         y="365.98917"
+         x="1007.606"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.10000002;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';stroke-width:1.06666672"
+           id="tspan3146"
+           y="365.98917"
+           x="1007.606"
+           sodipodi:role="line">Making the</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.10000002;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';stroke-width:1.06666672"
+           id="tspan3148"
+           y="383.58917"
+           x="1007.606"
+           sodipodi:role="line">Free Wiki</tspan><tspan
+           id="tspan3164"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.10000002;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';stroke-width:1.06666672"
+           y="401.18918"
+           x="1007.606"
+           sodipodi:role="line">World Map</tspan></text>
+      <text
+         transform="rotate(-90)"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="text3363"
+         y="920.49817"
+         x="-419.59317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:FrobisherExtrabold;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.10964203px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           dx="0 0 0 0 2.8287659 0 0 0 0 0 4.2431493"
+           y="920.49817"
+           x="-419.59317"
+           id="tspan3365"
+           sodipodi:role="line">OpenStreetMap</tspan></text>
+      <g
+         id="g3788">
+        <rect
+           style="fill:none;stroke:#40406d;stroke-width:1.06666672;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3666"
+           width="524.60522"
+           height="287.41663"
+           x="333.8837"
+           y="54.365662" />
+      </g>
+      <rect
+         y="350.56848"
+         x="612.28345"
+         height="16.20661"
+         width="250.24814"
+         id="rect2561"
+         style="fill:#ffffff;fill-opacity:0.66666667;fill-rule:evenodd;stroke:none;stroke-width:1.06666672" />
+      <image
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/osm.png"
+         xlink:href="osm.png"
+         y="293.12241"
+         x="888.51501"
+         id="image2836"
+         height="75.869057"
+         width="75.869057"
+         transform="rotate(-14.448299)"
+         inkscape:transform-center-x="1.8977338"
+         inkscape:transform-center-y="0.069420587" />
+      <image
+         width="23.857815"
+         height="23.857815"
+         xlink:href="data:image/png;base64,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 +oI6P/4flS0vCBarxF8AAAAASUVORK5CYII= "
+         id="image3281"
+         x="833.69336"
+         y="391.83966" />
+      <image
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/london.png"
+         xlink:href="london.png"
+         width="529.13403"
+         height="290.30508"
+         id="image3171"
+         x="330.73428"
+         y="50.939404" />
+      <flowRoot
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;stroke-width:1.06666672"
+         id="flowRoot3401-8"
+         xml:space="preserve"
+         transform="matrix(0.99200333,0,0,1.217497,-6.5282121,-98.472254)"><flowRegion
+           id="flowRegion3403-2"
+           style="stroke-width:1.06666672"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.73333359px;line-height:125%;font-family:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.13777781"
+             y="331.54184"
+             x="58.998894"
+             height="113.44781"
+             width="250.1712"
+             id="rect3405-4" /></flowRegion><flowPara
+           id="flowPara3896"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672">OpenStreetMap data is published under the</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara701"><flowSpan
+   style="font-style:italic"
+   id="flowSpan699">“Open Database License 1.0”</flowSpan> (ODbL). Anyone can share, adapt, and create works from our data freely, provided that they give attribution to <flowSpan
+   style="font-style:italic"
+   id="flowSpan704">“© OpenStreetMap contributors”</flowSpan>, and share any adapted databases under the same license. </flowPara><flowPara
+           id="flowPara3894"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';stroke-width:1.06666672">https://www.openstreetmap.org/copyright</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara2580-3"> </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara2576-2">  </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara2572-2" /></flowRoot>      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         id="flowRoot3910"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3912"
+           style="font-family:sans-serif;stroke-width:1.06666672"><rect
+             y="356.14905"
+             x="636.5976"
+             height="29.407135"
+             width="133.66879"
+             id="rect3914"
+             style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
+           id="flowPara3916"
+           style="font-size:10.66666698px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672"> </flowPara></flowRoot>      <image
+         sodipodi:absref="/home/alexk/OSM/openstreetmap-promotional-leaflets/Inkscape-r15371/signup-guy.png"
+         xlink:href="signup-guy.png"
+         width="249.44901"
+         height="99.439735"
+         id="image3143"
+         x="51.049294"
+         y="83.034996" />
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.85;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         id="flowRoot3918"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3920"
+           style="font-family:sans-serif;stroke-width:1.06666672"><rect
+             y="375.77435"
+             x="616.36908"
+             height="57.811733"
+             width="266.66922"
+             id="rect3922"
+             style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara3926">This flyer created by Andy Allan (www.gravitystorm.co.uk) and</flowPara><flowPara
+           id="flowPara3936"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672">updated by Alex Kemp (osm.org/user/alexkemp)</flowPara><flowPara
+           id="flowPara3940"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"> </flowPara><flowPara
+           id="flowPara3942"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;line-height:110.00000238%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672">Order these flyers at shop.opencyclemap.org</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara3928"> </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:1.06666672"
+           id="flowPara3930"> </flowPara></flowRoot>    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="markings"
+     style="display:none"
+     transform="translate(-24.506561,-81.988258)">
+    <g
+       id="g3245"
+       transform="translate(-30.236231,30.236226)">
+      <text
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="text2196"
+         y="16.029736"
+         x="972.24304"
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           y="16.029736"
+           x="972.24304"
+           id="tspan2198"
+           sodipodi:role="line"
+           style="font-size:12.80000019px;line-height:1.25;stroke-width:1.06666672">Flyer Titelseite</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2218"
+         d="M 1156.5355,-3.1364583e-5 V 18.897612"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2220"
+         d="M 876.85039,-3.1364583e-5 V 18.897612"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2222"
+         d="M 597.16535,-3.1364583e-5 V 18.897612"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="text2200"
+         y="14.852054"
+         x="111.58289"
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           y="14.852054"
+           x="111.58289"
+           id="tspan2202"
+           sodipodi:role="line"
+           style="font-size:12.80000019px;line-height:1.25;stroke-width:1.06666672">Flyer Rückseite</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2204"
+         d="M 37.795276,-3.1364583e-5 V 18.897612"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2224"
+         d="M 317.48032,-3.1364583e-5 V 18.897612"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2206"
+         d="M 18.897637,37.795254 H 0"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2208"
+         d="M 18.897637,434.64564 H 0"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2210"
+         d="m 37.795276,453.54329 v 18.89763"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2226"
+         d="m 317.48032,453.54329 v 18.89763"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2228"
+         d="m 597.16535,453.54329 v 18.89763"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2230"
+         d="m 876.85039,453.54329 v 18.89763"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2212"
+         d="m 1156.5355,453.54329 v 18.89763"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2214"
+         d="m 1194.3307,434.64564 h -18.8976"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="400.01047"
+         inkscape:export-xdpi="400.01047"
+         inkscape:export-filename="/tmp/1.png"
+         id="path2216"
+         d="m 1194.3307,37.795254 h -18.8976"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="mask_all"
+     style="display:none;opacity:0.85"
+     transform="translate(-24.506561,-81.988258)">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672"
+       d="m -243.73757,-145.29333 v 113.899999 99.433333 466.866668 143.3 H 1377.5957 v -133.6 V 464.87333 68.040002 -87.793331 -145.29333 Z M 7.3957682,68.040002 H 1126.1291 V 464.87333 H 7.3957682 Z"
+       id="rect3834"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="mask_front"
+     style="display:none;opacity:0.85"
+     transform="translate(-24.506561,-81.988258)">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672"
+       d="m -243.73757,-145.29333 v 113.899999 99.433333 466.866668 143.3 H 1377.5957 v -133.6 V 464.87333 68.040002 -87.793331 -145.29333 Z m 1090.2,213.333332 H 1126.1291 V 464.87333 H 846.46243 Z"
+       id="path3897"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
